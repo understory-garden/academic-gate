@@ -1,0 +1,15 @@
+@tailwind base;
+
+body {
+  @apply bg-black text-white;
+}
+
+main {
+  @apply w-screen;
+}
+
+@tailwind components;
+
+
+
+@tailwind utilities;
